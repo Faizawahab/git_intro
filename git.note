@@ -1,0 +1,11 @@
+git clone. downloading the project
+git fetch. getting the history
+git pull. getting the current changes
+git push
+
+
+
+git init. to set git eyes on it
+git add index.txt
+git add. selects everything
+git commit -m 
